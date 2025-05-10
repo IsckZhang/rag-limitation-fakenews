@@ -1,0 +1,12 @@
+Instruction:
+
+You are provided with a news article. Your task is to analyze the content of the article carefully and classify it as either "Fake" or "Real" based solely on the information given. Consider factual accuracy, consistency, objectivity, and reliability of the claims made in the article.
+
+- If you find the article contains misinformation, unverified claims, misleading statements, exaggerated or sensationalized content, conspiracy theories, or contradictions, classify it as Fake.
+
+- If the article is accurate, based on verifiable facts, supported by credible sources, logically consistent, and objectively presented without misleading or deceptive statements, classify it as Real.
+
+Response should start with reasoning and followed by your conclusion which should be either Fake or Real.
+
+Article:
+{text}
